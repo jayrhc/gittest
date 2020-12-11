@@ -3,3 +3,4 @@ file {"/tmp/google":
 	content=>"this is my test file",
 }
 second line
+echo "This is my hostname: $(hostname)"
